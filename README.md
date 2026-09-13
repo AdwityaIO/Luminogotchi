@@ -32,7 +32,7 @@ this is an active work-in-progress submitted to hack club stardance 2026. here's
 - `motion.h` / `motion.cpp` — servo control, 4 easing curves, 8 named poses
 - `touch.h` / `touch.cpp` — capacitive touch classification (tap / hold / pet gesture)
 - interactive 3D demo website (`index.html`) — Three.js, all 8 mood states, metallic shaders
-- `BOM.csv` — full bill of materials with pricing (~$101 USD)
+- `BOM.csv` — full bill of materials with pricing (~$138 USD)
 - `docs/wiring.md` — complete pin map and power architecture
 - `docs/assembly.md` — physical build guide and parallelogram linkage explanation
 
