@@ -8,7 +8,7 @@
 [![Hack Club Stardance](https://img.shields.io/badge/Hack%20Club-Stardance%202026-ec3750?style=for-the-badge)](https://stardance.hackclub.com)
 [![ESP32](https://img.shields.io/badge/ESP32-Arduino-blue?style=for-the-badge&logo=arduino)](https://www.arduino.cc)
 
-[View 3D Demo](https://adwityaio.github.io/Luminogotchi) · [Stardance Project](https://stardance.hackclub.com/projects/11607) · [Report Bug](https://github.com/AdwityaIO/Luminogotchi/issues/new)
+[View 3D Demo]([https://adwityaio.github.io/Luminogotchi](https://luminogotchi.netlify.app/)) · [Stardance Project](https://stardance.hackclub.com/projects/11607) · [Report Bug](https://github.com/AdwityaIO/Luminogotchi/issues/new)
 
 </div>
 
